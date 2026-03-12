@@ -29,7 +29,7 @@
 - 4x2020 450mm for Z 
 - 8x2020 250mm for X and Y
 - 1x2020 200mm for X axis MGN rail
-- 2x1515 (or2020) 250mm for y rodsupport 
+- 2x1515 (or 2020) 250mm for y rodsupport 
 
 
 
