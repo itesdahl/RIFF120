@@ -23,3 +23,16 @@
 - Chamber heater
 
 
+### Cutting extrusions
+
+- 4x2020 450mm for Z 
+- 8x2020 250mm for X and Y
+- 1x2020 200mm for X axis MGN rail
+- 2x1515 (or2020) 250mm for y rodsupport 
+
+
+
+
+>[!TIP]
+>Check the frame for squareness and adjust/correct  as needed.
+>Mount the 3 z-motor mounts with M5 10mm bolts. The motor mounts makes the frame more rigid. Check the frame again for squareness.
