@@ -36,4 +36,4 @@
 
 >[!TIP]
 >Check the frame for squareness and adjust/correct  as needed.
->Mount the 3 z-motor mounts with M5 10mm bolts. The motor mounts makes the frame more rigid. Check the frame again for squareness.
+>Mount the 2 z-motor mounts with M5 10mm bolts. The motor mounts makes the frame more rigid. Check the frame again for squareness.
