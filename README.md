@@ -20,7 +20,8 @@
 - Sensorless homing on X and Y 
 - Dragonburner with Sherpa micro
 - Low budget CPAP solution with 2 x 5015 fans 
-- 1 x 240W 24V power supply and 5V buck converter
+- 1 x 120W 24V power supply (heat bed is 12V)
+- 1 x 250W 12V and 5V power supply (HP server PSU)
 - Chamber heater
 
 
