@@ -14,7 +14,7 @@
 - MGN 12H rails/carriage X
 - 10mm rods and bearings on Y 
 - 8mm rods and bearings on Z 
-- CorexyM
+- Corexy
 - Klipper firmware 
 - Dual z steppermotors (z-tilt functionality)
 - Sensorless homing on X and Y 
