@@ -27,7 +27,7 @@
 
 ### Cutting extrusions
 
-- 4x2020 380mm for Z 
+- 4x2020 380mm or 450mm for Z 
 - 4x2020 235mm for y
 - 4x2020 260mm for X
 - 1x2020 209mm for X axis MGN rail
