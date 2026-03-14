@@ -7,14 +7,14 @@
 
 ## Some tentative information about the design and build:
 
-- Max printable area 120x120x150, (X restricted by toolhead width)
+- Max printable area 120x120x170, (X restricted by toolhead width)
 - 2020 extrusions 
 - Orange Pi Zero SBC (use any SBC with 3-4 USB ports)
 - Controller card(s) with a total of 5 stepper drivers
 - MGN 12H rails/carriage X
 - 10mm rods and bearings on Y 
 - 8mm rods and bearings on Z 
-- Corexy
+- CorexyM
 - Klipper firmware 
 - Dual z steppermotors (z-tilt functionality)
 - Sensorless homing on X and Y 
@@ -27,9 +27,10 @@
 
 ### Cutting extrusions
 
-- 4x2020 450mm for Z 
-- 8x2020 250mm for X and Y
-- 1x2020 200mm for X axis MGN rail
+- 4x2020 380mm for Z 
+- 4x2020 255mm for X
+- 4x2020 245mm for Y
+- 1x2020 205mm for X axis MGN rail
 - 2x2020 (or 1515) 250mm for y rodsupport 
 
 
