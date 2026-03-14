@@ -9,8 +9,8 @@
 
 - Max printable area 120x120x150, (X restricted by toolhead width)
 - 2020 extrusions 
-- Radxa Rock 3C SBC (use any SBC with 3-4 USB ports)
-- Controller card with 5 stepper drivers
+- Orange Pi Zero SBC (use any SBC with 3-4 USB ports)
+- Controller card(s) with a total of 5 stepper drivers
 - MGN 12H rails/carriage X
 - 10mm rods and bearings on Y 
 - 8mm rods and bearings on Z 
