@@ -7,7 +7,7 @@
 
 ## Some tentative information about the design and build:
 
-- Max printable area 120x120x170, (X restricted by toolhead width)
+- Max printable area 120x120x170/240, (X restricted by toolhead width)
 - 2020 extrusions 
 - Orange Pi Zero SBC (use any SBC with 3-4 USB ports)
 - Controller card(s) with a total of 5 stepper drivers
