@@ -10,19 +10,19 @@
 - Max printable area 120x120x170/240, (X restricted by toolhead width)
 - 2020 extrusions 
 - Orange Pi Zero SBC (use any SBC with 3-4 USB ports)
-- Controller card(s) with a total of 4/5 stepper drivers
+- Controller card with a total of 4 stepper drivers
 - MGN 12H rails/carriage X
 - 10mm rods and bearings on Y 
 - 8mm rods and bearings on Z 
 - Corexy
 - Klipper firmware 
-- Dual z steppermotors (z-tilt functionality?)
+- Dual z steppermotors
 - Sensorless homing on X and Y 
 - Dragonburner with Sherpa micro
 - Low budget CPAP solution with 2 x 5015 fans 
-- 1 x 120W 24V power supply (heat bed is 12V)
-- 1 x 250W 12V and 5V power supply (HP server PSU)
-- Chamber heater
+- 1 x 100W 24V power supply
+- 1 x 250W 12V and 5V power supply (heat bed + heater)
+- Chamber heater 70W
 
 ![CAD](cad120.jpg)
 
