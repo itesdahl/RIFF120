@@ -1,6 +1,6 @@
 # The RIFF120 DIY 3D printer medium and tall version
 ![170](riff120.png)
-![250](riff250.png)
+![250](riff240.png)
 
 >[!NOTE]
 >This is just a heads up about the next project.
@@ -8,7 +8,7 @@
 
 ## Some tentative information about the design and build:
 
-- Max printable area 120x120x170 0r 240mm, (X restricted by toolhead width)
+- Max printable area 120x120x170 or 240mm, (X restricted by toolhead width)
 - 2020 extrusions 
 - Orange Pi Zero SBC (use any SBC with 3-4 USB ports)
 - Controller card with a total of 4 stepper drivers
