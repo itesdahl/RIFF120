@@ -24,8 +24,9 @@
 - 1 x 250W 12V and 5V power supply (HP server PSU)
 - Chamber heater
 
+![CAD](cad120.jpg)
 
-### Cutting extrusions
+### Cutting extrusions, tentative!
 
 - 4x2020 380mm (or 450mm) for Z 
 - 4x2020 245mm for Y
