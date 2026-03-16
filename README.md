@@ -10,13 +10,13 @@
 - Max printable area 120x120x170/240, (X restricted by toolhead width)
 - 2020 extrusions 
 - Orange Pi Zero SBC (use any SBC with 3-4 USB ports)
-- Controller card(s) with a total of 5 stepper drivers
+- Controller card(s) with a total of 4/5 stepper drivers
 - MGN 12H rails/carriage X
 - 10mm rods and bearings on Y 
 - 8mm rods and bearings on Z 
 - Corexy
 - Klipper firmware 
-- Dual z steppermotors (z-tilt functionality)
+- Dual z steppermotors (z-tilt functionality?)
 - Sensorless homing on X and Y 
 - Dragonburner with Sherpa micro
 - Low budget CPAP solution with 2 x 5015 fans 
