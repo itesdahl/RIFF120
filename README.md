@@ -1,5 +1,6 @@
 # The RIFF120 DIY 3D printer
-![Build](riff120.png)
+![170](riff120.png)
+![250](riff250.png)
 
 >[!NOTE]
 >This is just a heads up about the next project.
