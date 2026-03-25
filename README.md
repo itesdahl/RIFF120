@@ -3,7 +3,7 @@
 ![250](riff240.png)
 
 >[!NOTE]
->This is just a heads up about the next project.
+>This is just a heads up about the next build.
 
 
 ## Some tentative information about the design and build:
@@ -11,13 +11,13 @@
 - Max printable area 120x120x170 or 240mm, (X restricted by toolhead width)
 - 2020 extrusions 
 - Orange Pi Zero SBC (use any SBC with 3-4 USB ports)
-- Controller cards with a total of 5 stepper drivers
+- Controller card with a total of 4 stepper drivers
 - MGN 12H rails/carriage X
 - 10mm rods and bearings on Y 
 - 8mm rods and bearings on Z 
 - Corexy
 - Klipper firmware 
-- Dual independant z steppermotors and drivers
+- Dual z steppermotors
 - Sensorless homing on X and Y 
 - Dragonburner with Sherpa micro
 - Low budget CPAP solution with 2 x 5015 fans 
