@@ -1,5 +1,5 @@
 # The RIFF120 DIY 3D printer medium and tall version
-![170](riff120.png)
+![170](riff120_170.png)
 ![250](riff240.png)
 
 >[!NOTE]
