@@ -3,7 +3,7 @@
 ![250](riff240.png)
 
 >[!NOTE]
->This is just a heads up about the next build. There are still errors in the CAD-model!
+>This is just a heads up about the next build. There are still inaccuracies in the CAD-model!
 
 
 ## About the design and build:
