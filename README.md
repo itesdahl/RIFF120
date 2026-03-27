@@ -6,7 +6,7 @@
 >This is just a heads up about the next build. There are still corrections to be done in the CAD-model!
 
 
-## About the design and build:
+## About the design and my own build:
 
 - Max printable area 120x120x170 or 240mm, (X restricted by toolhead width)
 - 2020 extrusions 
